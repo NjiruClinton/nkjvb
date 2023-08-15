@@ -10,4 +10,4 @@ flutter pub get
 flutter run
 ```
 
-- 0r get the release apk from [here](/releases)
+- or get the release apk from [here](https://github.com/NjiruClinton/nkjvb/commits/latest)
