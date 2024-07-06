@@ -59,13 +59,20 @@ dev_dependencies:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/launchericon.jpg"
+  image_path: "assets/images/launchericon2.png"
+  adaptive_icon_background: "#d1d2d4"
 
 flutter_native_splash:
-    image: "assets/images/launchericon.jpg"
+    image: "assets/images/launchericon2.png"
     android: true
     ios: true
     color: "#d1d2d4"
+
+    android_12:
+      image: "assets/images/launchericon2.png"
+      icon_background_color: "#d1d2d4"
+
+      web: false
 # The following section is specific to Flutter packages.
 flutter:
 
